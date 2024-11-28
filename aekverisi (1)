@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aeKaynalar>
+    <kaynak>
+        <baslik>Python Programlama Dersi</baslik>
+        <yazar>John Doe</yazar>
+        <tarih>2023-08-01</tarih>
+        <konu>Programlama</konu>
+    </kaynak>
+    <kaynak>
+        <baslik>Makine Öğrenmesi 101</baslik>
+        <yazar>Jane Smith</yazar>
+        <tarih>2022-05-15</tarih>
+        <konu>Yapay Zeka</konu>
+    </kaynak>
+</aeKaynalar>
+
